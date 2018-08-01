@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beansProjectDescription>
+	<version>1</version>
+	<pluginVersion><![CDATA[3.7.3.201602250914-RELEASE]]></pluginVersion>
+	<configSuffixes>
+		<configSuffix><![CDATA[xml]]></configSuffix>
+	</configSuffixes>
+	<enableImports><![CDATA[false]]></enableImports>
+	<configs>
+		<config>src/main/resources/kr/or/ddit/ioc/application-ioc.xml</config>
+		<config>src/main/resources/kr/or/ddit/ioc/application-collection.xml</config>
+		<config>src/main/resources/kr/or/ddit/ioc/application-placeholder.xml</config>
+		<config>src/main/resources/kr/or/ddit/ioc/application-lifecycle.xml</config>
+		<config>src/main/resources/kr/or/ddit/ioc/application-annotation.xml</config>
+		<config>src/main/resources/kr/or/ddit/ioc/application-type.xml</config>
+		<config>src/main/resources/kr/or/ddit/config/spring/root-context.xml</config>
+		<config>src/main/resources/kr/or/ddit/config/spring/servlet-context.xml</config>
+	</configs>
+	<autoconfigs>
+	</autoconfigs>
+	<configSets>
+	</configSets>
+</beansProjectDescription>
